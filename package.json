@@ -1,0 +1,16 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "ARAIS",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^5.12.1",
+    "webpack-cli": "^4.3.1"
+  }
+}
